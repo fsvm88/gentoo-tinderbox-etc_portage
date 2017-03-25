@@ -1,0 +1,4 @@
+app-portage/repoman
+dev-python/mysql-connector-python
+sys-apps/portage
+app-portage/tbc
